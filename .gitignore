@@ -2,3 +2,6 @@ Makefile.config.override
 build-*
 docs/html
 *~
+CMakeFiles/
+cmake_install.cmake
+Makefile
